@@ -43,7 +43,7 @@ This project is designed to be run interactively in Google Colab.
 1.  **Open the Google Colab Notebook:**
     Click the "Open In Colab" badge below to launch the notebook directly in your browser.
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/linkedin-post-analyser/blob/main/notebook/Post_Analyser.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/linkedin-post-analyser/blob/main/notebook/post_analyser.ipynb)
 
 2.  **Set up OpenAI API Key:**
     * In Google Colab, go to the left sidebar, click the **"Secrets" (🔑) icon**.
